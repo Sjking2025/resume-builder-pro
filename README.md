@@ -9,6 +9,11 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-5.0.3-orange?style=for-the-badge)
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-00C853?style=for-the-badge)](https://resume-builder-pro-gilt.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Sjking2025/resume-builder-pro)
+
+### 🚀 [Try it Now - Create Your Resume FREE!](https://resume-builder-pro-gilt.vercel.app/)
+
 [✨ Features](#-features) • [🖼️ Screenshots](#️-screenshots) • [🚀 Quick Start](#-quick-start) • [📂 Project Structure](#-project-structure) • [🎨 Templates](#-available-templates)
 
 </div>
