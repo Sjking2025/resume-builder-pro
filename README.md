@@ -89,28 +89,77 @@ Creating a professional resume is challenging:
 ### 🏠 Homepage
 A modern, gradient-styled landing page with call-to-action buttons.
 
-![Homepage](./screenshots/homepage.png)
+![Homepage](./screenshots/01-homepage.png)
 
 ---
 
-### ✏️ Resume Editor
-Split-panel interface with form editor on the left and live preview on the right.
+### ✏️ Resume Editor - Personal Information
+Clean form interface for entering personal details with live preview on the right.
 
-![Editor Interface](./screenshots/editor-interface.png)
+![Editor Personal Info](./screenshots/02-editor-personal-info.png)
 
 ---
 
-### 📊 Sidebar Template
+### 💼 Resume Editor - Experience Section
+Add work experience with company, role, dates, and bullet points.
+
+![Editor Experience](./screenshots/03-editor-experience.png)
+
+---
+
+### 🎓 Resume Editor - Education Section
+Add educational background with degree, institution, GPA, and graduation date.
+
+![Editor Education](./screenshots/04-editor-education.png)
+
+---
+
+### 🚀 Resume Editor - Projects Section
+Showcase your projects with descriptions, technologies, and links.
+
+![Editor Projects](./screenshots/05-editor-projects.png)
+
+---
+
+### 🛠️ Resume Editor - Skills Section
+Add technical skills, soft skills, and languages with tag-based input.
+
+![Editor Skills](./screenshots/06-editor-skills.png)
+
+---
+
+### 🏆 Resume Editor - Achievements Section
+Add certifications, awards, and achievements.
+
+![Editor Achievements](./screenshots/07-editor-achievements.png)
+
+---
+
+### 📊 Template - Sidebar Layout
 Professional split-layout with dark sidebar for skills and main area for experience.
 
-![Sidebar Template](./screenshots/sidebar-template.png)
+![Template Sidebar](./screenshots/08-template-sidebar.png)
 
 ---
 
-### 💙 Blue Accent Template
-Clean single-column layout with auto-categorized technical skills.
+### 🎨 Template - Modern Style
+Contemporary design with gradient header and clean typography.
 
-![Blue Accent Template](./screenshots/blue-accent-template.png)
+![Template Modern](./screenshots/09-template-modern.png)
+
+---
+
+### 📄 PDF Export Preview
+Print-ready PDF export with proper formatting and page breaks.
+
+![PDF Export](./screenshots/10-pdf-export.png)
+
+---
+
+### 🎯 Template Selector
+Dropdown with 18 templates organized by category for easy selection.
+
+![Template Selector](./screenshots/11-template-selector.png)
 
 ---
 
@@ -152,7 +201,7 @@ Clean single-column layout with auto-categorized technical skills.
 ## 📂 Project Structure
 
 ```
-client/
+resume-builder-pro/
 ├── 📁 public/               # Static assets
 ├── 📁 screenshots/          # README screenshots
 ├── 📁 src/
@@ -266,7 +315,7 @@ client/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/resume-builder-pro.git
+git clone https://github.com/Sjking2025/resume-builder-pro.git
 
 # Navigate to project
 cd resume-builder-pro
@@ -363,10 +412,10 @@ Contributions are welcome! Feel free to:
 
 ## 👨‍💻 Author
 
-**SANJAY R**
+**Sanjay R**
 
-- GitHub: [@sanjay](https://github.com/sanjay)
-- LinkedIn: [sanjay](https://linkedin.com/in/sanjay)
+- GitHub: [@Sjking2025](https://github.com/Sjking2025)
+- LinkedIn: [Sanjay R](https://linkedin.com/in/sanjayr005)
 
 ---
 
