@@ -163,6 +163,64 @@ Dropdown with 18 templates organized by category for easy selection.
 
 ---
 
+## 🎨 Template Showcase Gallery
+
+### 📋 18 Templates Available
+All templates organized by category in a clean dropdown interface.
+
+![18 Templates](./screenshots/12-18-templates-dropdown.png)
+
+---
+
+### Template Previews (One from Each Category)
+
+<table>
+<tr>
+<td align="center" width="50%">
+<strong>📋 ATS Friendly (Standard)</strong><br>
+Clean, parser-optimized for any job
+<br><br>
+<img src="./screenshots/13-template-ats.png" alt="ATS Template" width="100%">
+</td>
+<td align="center" width="50%">
+<strong>📜 Classic (Traditional)</strong><br>
+Timeless serif fonts design
+<br><br>
+<img src="./screenshots/14-template-classic.png" alt="Classic Template" width="100%">
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<strong>💼 Executive (Professional)</strong><br>
+Bold navy for senior roles
+<br><br>
+<img src="./screenshots/15-template-executive.png" alt="Executive Template" width="100%">
+</td>
+<td align="center" width="50%">
+<strong>🎯 Minimal (Modern)</strong><br>
+Maximum whitespace, clean look
+<br><br>
+<img src="./screenshots/16-template-minimal.png" alt="Minimal Template" width="100%">
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<strong>🔧 Technical (Specialized)</strong><br>
+Skills-first for developers
+<br><br>
+<img src="./screenshots/17-template-technical.png" alt="Technical Template" width="100%">
+</td>
+<td align="center" width="50%">
+<strong>📊 Two Column (Sidebar)</strong><br>
+Split layout for dense content
+<br><br>
+<img src="./screenshots/18-template-twocolumn.png" alt="Two Column Template" width="100%">
+</td>
+</tr>
+</table>
+
+---
+
 ## 🏗️ Architecture
 
 ```
