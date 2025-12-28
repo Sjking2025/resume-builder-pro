@@ -1,6 +1,6 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
-import { FaFileAlt, FaRocket, FaShieldAlt, FaStar, FaArrowRight, FaRobot } from 'react-icons/fa'
+import { FaFileAlt, FaRocket, FaShieldAlt, FaStar, FaArrowRight } from 'react-icons/fa'
 
 const HomePage = () => {
   const navigate = useNavigate()
@@ -12,9 +12,9 @@ const HomePage = () => {
       description: 'Choose from ATS-optimized and modern templates designed to impress recruiters',
     },
     {
-      icon: <FaRobot className="text-4xl text-purple-500" />,
-      title: 'AI-Powered Analysis',
-      description: 'Get ATS scores, improvement suggestions, and career guidance powered by AI',
+      icon: <FaRocket className="text-4xl text-accent-500" />,
+      title: 'AI-Powered (Coming Soon)',
+      description: 'Get intelligent suggestions and optimize your resume for any job description',
     },
     {
       icon: <FaShieldAlt className="text-4xl text-green-500" />,
@@ -42,20 +42,12 @@ const HomePage = () => {
             <span className="font-semibold text-primary-600">No watermarks. No paywalls. No BS.</span>
           </p>
           
-          <div className="flex flex-col sm:flex-row gap-4 justify-center animate-slide-up">
-            <button
-              onClick={() => navigate('/editor')}
-              className="btn-primary text-lg px-10 py-4 inline-flex items-center justify-center gap-3"
-            >
-              Start Building Free <FaArrowRight />
-            </button>
-            <button
-              onClick={() => navigate('/analyze')}
-              className="bg-gradient-to-r from-purple-600 to-indigo-600 text-white font-bold px-10 py-4 rounded-xl hover:from-purple-700 hover:to-indigo-700 transition-all inline-flex items-center justify-center gap-3 shadow-lg"
-            >
-              <FaRobot /> AI Analysis
-            </button>
-          </div>
+          <button
+            onClick={() => navigate('/editor')}
+            className="btn-primary text-lg px-10 py-4 animate-slide-up inline-flex items-center gap-3"
+          >
+            Start Building Free <FaArrowRight />
+          </button>
 
           <p className="text-sm text-gray-600 mt-4">No account required • Your data stays private</p>
         </div>
